@@ -1,1 +1,1 @@
-# Find-highest-score
+Find highest score in a class of students
